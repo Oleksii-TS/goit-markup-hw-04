@@ -282,6 +282,11 @@ h6 {
   background-color: #404bbf;
 }
 
+.team-icon,
+.footer-icon {
+  fill: #f4f4fd;
+}
+
 .portfolio-section {
   padding-top: 120px;
   padding-bottom: 120px;
