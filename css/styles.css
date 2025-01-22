@@ -329,3 +329,34 @@ h6 {
   display: inline-block;
   margin-bottom: 16px;
 }
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
+.footer-social-desc {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.footer-social-link {
+  width: 40px;
+  height: 40px;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-social {
+  margin-left: 120px;
+}
+.footer-social-list {
+  display: flex;
+  gap: 16px;
+}
+.footer-social-link:hover {
+  background-color: #31d0aa;
+}
